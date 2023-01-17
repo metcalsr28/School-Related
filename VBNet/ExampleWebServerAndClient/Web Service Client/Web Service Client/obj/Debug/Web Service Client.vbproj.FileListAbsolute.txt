@@ -1,0 +1,25 @@
+C:\Users\Steven\source\repos\Web Service Client\bin\Debug\Web Service Client.exe.config
+C:\Users\Steven\source\repos\Web Service Client\bin\Debug\Web Service Client.exe
+C:\Users\Steven\source\repos\Web Service Client\bin\Debug\Web Service Client.pdb
+C:\Users\Steven\source\repos\Web Service Client\bin\Debug\Web Service Client.xml
+C:\Users\Steven\source\repos\Web Service Client\obj\Debug\Web Service Client.vbprojAssemblyReference.cache
+C:\Users\Steven\source\repos\Web Service Client\obj\Debug\Web_Service_Client.frmPresentation.resources
+C:\Users\Steven\source\repos\Web Service Client\obj\Debug\Web_Service_Client.Resources.resources
+C:\Users\Steven\source\repos\Web Service Client\obj\Debug\Web Service Client.vbproj.GenerateResource.cache
+C:\Users\Steven\source\repos\Web Service Client\obj\Debug\Web Service Client.vbproj.CoreCompileInputs.cache
+C:\Users\Steven\source\repos\Web Service Client\obj\Debug\Web Service Client.exe
+C:\Users\Steven\source\repos\Web Service Client\obj\Debug\Web Service Client.xml
+C:\Users\Steven\source\repos\Web Service Client\obj\Debug\Web Service Client.pdb
+C:\Users\Steven\Desktop\CIT263 Final Project Workspace\Final Project\Web Service Client\Web Service Client\Web Service Client\obj\Debug\Web Service Client.vbprojAssemblyReference.cache
+C:\Users\Steven\Desktop\CIT263 Final Project Workspace\Final Project\Web Service Client\Web Service Client\Web Service Client\obj\Debug\Web_Service_Client.frmPresentation.resources
+C:\Users\Steven\Desktop\CIT263 Final Project Workspace\Final Project\Web Service Client\Web Service Client\Web Service Client\obj\Debug\Web_Service_Client.Resources.resources
+C:\Users\Steven\Desktop\CIT263 Final Project Workspace\Final Project\Web Service Client\Web Service Client\Web Service Client\obj\Debug\Web Service Client.vbproj.GenerateResource.cache
+C:\Users\Steven\Desktop\CIT263 Final Project Workspace\Final Project\Web Service Client\Web Service Client\Web Service Client\obj\Debug\Web Service Client.vbproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\CIT263 Final Project Workspace\Final Project\Web Service Client\Web Service Client\Web Service Client\obj\Debug\Web Service Client.exe
+C:\Users\Steven\Desktop\CIT263 Final Project Workspace\Final Project\Web Service Client\Web Service Client\Web Service Client\obj\Debug\Web Service Client.xml
+C:\Users\Steven\Desktop\CIT263 Final Project Workspace\Final Project\Web Service Client\Web Service Client\Web Service Client\obj\Debug\Web Service Client.pdb
+C:\Users\Steven\Desktop\CIT263 Final Project Workspace\Final Project\Web Service Client\Web Service Client\Web Service Client\bin\Debug\Web Service Client.exe.config
+C:\Users\Steven\Desktop\CIT263 Final Project Workspace\Final Project\Web Service Client\Web Service Client\Web Service Client\bin\Debug\Web Service Client.exe
+C:\Users\Steven\Desktop\CIT263 Final Project Workspace\Final Project\Web Service Client\Web Service Client\Web Service Client\bin\Debug\Web Service Client.pdb
+C:\Users\Steven\Desktop\CIT263 Final Project Workspace\Final Project\Web Service Client\Web Service Client\Web Service Client\bin\Debug\Web Service Client.xml
+C:\Users\Steven\Desktop\CIT263 Final Project Workspace\Final Project\Web Service Client\Web Service Client\Web Service Client\obj\Debug\Web_Service_Client.SplashScreen.resources

@@ -1,0 +1,56 @@
+------------------Web Service Log File------------------
+Hello World Statement: successful
+Delete Statement: customerID: 324231
+Insert Statement: Critera:  Customer Name: dfsdsfdsf Address 1: sddsffsda Address 2: sfdasdsfda City: fsadsfda State: oh
+Update Statement: Critera:  Customer ID: 2359660 Customer Name: dfsdsfdsf Address 1: sddsffsda Address 2: sfdasdsfda City: fsadsfda State: oh
+Select Statement: Critera:  Customer ID: 2359660 Customer Name: dfsdsfdsf Address 1: sddsffsda Address 2: sfdasdsfda City: fsadsfda State: oh
+Hello World Statement: successful
+Hello World Statement: successful
+Select Statement: Critera:  Customer ID: -1
+Select Statement: Critera:  Customer ID: 1
+Select Statement: Critera:  Customer ID: 23
+Select Statement: Critera:  Customer ID: -1 Customer Name: john
+Select Statement: Critera:  Customer ID: -1 Customer Name: john
+Select Statement: Critera:  Customer ID: -1
+Delete Statement: customerID: 2359633
+Delete Statement: customerID: 2359633
+Insert Statement: Critera:  Customer Name: testes Address 1: testst Address 2: estst City: tests State: estes
+Insert Statement: Critera:  Customer Name: testes Address 1: testst Address 2:   City: tests State: estes
+Select Statement: Critera:  Customer ID: 2359685 Customer Name: testes Address 1: testst Address 2:   City: tests State: estes
+Update Statement: Critera:  Customer ID: 2359685 Customer Name: testes Address 1: testst Address 2:   City: tests State: estes
+Update Statement: Critera:  Customer ID: 2359685 Customer Name: testes Address 1: testst Address 2: %20% City: tests State: estes
+Select Statement: Critera:  Customer ID: 2359685 Customer Name: testes Address 1: testst Address 2: %20% City: tests State: estes
+Update Statement: Critera:  Customer ID: 2359685 Customer Name: testes Address 1: testst Address 2: 20 City: tests State: estes
+Select Statement: Critera:  Customer ID: 2359685 Customer Name: testes Address 1: testst Address 2: 20 City: tests State: estes
+Update Statement: Critera:  Customer ID: 2359685 Customer Name: testes Address 1: testst Address 2: %20 City: tests State: estes
+Select Statement: Critera:  Customer ID: 2359685 Customer Name: testes Address 1: testst Address 2: %20 City: tests State: estes
+Update Statement: Critera:  Customer ID: 3214214 Customer Name: sddfsa Address 1: dsfdsa City: fdsafds State: dffdas
+Select Statement: Critera:  Customer ID: 12312
+Update Statement: Critera:  Customer ID: 12312 Customer Name: dsfa Address 1: sfda City: dsfa State: sdfa23
+Select Statement: Critera:  Customer ID: 231123
+Update Statement: Critera:  Customer ID: 231123 Customer Name: adsffdsa Address 1: sadfdfsa Address 2: asdffdsa City: fdsafsda State: dsffdsa
+Update Statement: Critera:  Customer ID: 231123 Customer Name: adsffdsa Address 1: sadfdfsa City: fdsafsda State: dsffdsa
+Select Statement: Critera:  Customer ID: 23123
+Update Statement: Critera:  Customer ID: 23123 Customer Name: sdfa Address 1: fdsa City: asdf State: sadf
+Select Statement: Critera:  Customer ID: 124123
+Update Statement: Critera:  Customer ID: 124123 Customer Name: fdsa Address 1: dsfa City: dsaf State: sfda
+Select Statement: Critera:  Customer ID: 12432
+Select Statement: Critera:  Customer ID: 12432 Customer Name: dsaf Address 1: dasf City: dfsa State: asdf
+Update Statement: Critera:  Customer ID: 12432 Customer Name: dsaf Address 1: dasf City: dfsa State: asdf
+Select Statement: Critera:  Customer ID: 12432 Customer Name: dsaf Address 1: dasf City: dfsa State: asdf
+Delete Statement: customerID: 12432
+Select Statement: Critera:  Customer ID: 12312
+Hello World Statement: successful
+Update Statement: Critera:  Customer ID: 12312 Customer Name: sdfa Address 1: sdfa City: asdf State: af
+Select Statement: Critera:  Customer ID: 12312 Customer Name: sdfa Address 1: sdfa City: asdf State: af
+Insert Statement: Critera:  Customer Name: adsfadsf Address 1: dsaf Address 2: + City: fdas State: afds
+Select Statement: Critera:  Customer ID: 2359686 Customer Name: adsfadsf Address 1: dsaf City: fdas State: afds
+Insert Statement: Critera:  Customer Name: fdsa Address 1: afsd Address 2: + City: fasd State: fdsa
+Insert Statement: Critera:  Customer Name: dsfa Address 1: fdsa Address 2: + City: fads State: afds
+Hello World Statement: successful
+Insert Statement: Critera:  Customer Name: test Address 1: test Address 2: + City: test State: test
+Select Statement: Critera:  Customer ID: 45645 Customer Name: test Address 1: test City: test State: test
+Update Statement: Critera:  Customer ID: 45645 Customer Name: test Address 1: test City: test State: test
+Select Statement: Critera:  Customer ID: 45645 Customer Name: test City: test
+Delete Statement: customerID: 45645
+Insert Statement: Critera:  Customer Name: test Address 1: test Address 2: + City: test State: test
